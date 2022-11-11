@@ -1,1 +1,1 @@
-Studying项目库仅为我个人python学习中所编写的项目。
+Studying为我个人在学习python时所编写的工具以及一些心得。
